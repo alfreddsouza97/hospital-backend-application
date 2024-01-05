@@ -30,6 +30,14 @@ It is written in JavaScript, and uses Express.JS, Node.JS and JSON.
    localhost:3000/
    
  - PostMan Application is used to post, put and delete the data.
+ - Please make sure Node.JS is installed on your Computer
+ - Open the folder with VS Code and write the command in the Terminal 
+ -      npm install
+ -  It will install the dependencies specified in package.json file
+ -  Run the command 
+ -      index.js
+ - It will deploy the code your local server and can be accessed on 
+ -      localhost:3000/
 
 **Code Author - ** 
 
@@ -37,4 +45,3 @@ ALFRED MARSHALL DSOUZA
 https://www.linkedin.com/in/alfred-d-92957988/
 
 https://github.com/alfreddsouza97
-
