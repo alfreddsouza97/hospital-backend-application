@@ -223,7 +223,7 @@ app.delete('/', function(req, res){
     function isThereAtleastOneDamagedKidney() {
 
 
-        let atleastOneDamagedKidney =0;
+        let atleastOneDamagedKidney = false;
 
         for(let i=0; i<users[0].kidneys.length; i++){
 
