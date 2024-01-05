@@ -35,7 +35,7 @@ It is written in JavaScript, and uses Express.JS, Node.JS and JSON.
  -      npm install
  -  It will install the dependencies specified in package.json file
  -  Run the command 
- -      index.js
+ -      node index.js
  - It will deploy the code your local server and can be accessed on 
  -      localhost:3000/
 
@@ -45,4 +45,5 @@ ALFRED MARSHALL DSOUZA
 https://www.linkedin.com/in/alfred-d-92957988/
 
 https://github.com/alfreddsouza97
+
 
